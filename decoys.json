@@ -1,654 +1,654 @@
 {
-  "decoys": [
+  "content": [
     {
       "id": 0,
       "text": "alto octanaje",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 1,
       "text": "pimentón",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 2,
       "text": "socialismo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 3,
       "text": "Felicidad",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 4,
       "text": "Lo que sea",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 5,
       "text": "???????",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 6,
       "text": "La reforma de la financiación de los partidos políticos",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 7,
       "text": "Una mierda pa ti",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 8,
       "text": "Hipócrita ",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 9,
       "text": "Va a ser que no",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 10,
       "text": "Racismo",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 11,
       "text": "Ni puñetera idea de dónde vino eso",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 12,
       "text": "Metáfora mixta",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 13,
       "text": "No es lo que parece",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 14,
       "text": "Perturbador",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 15,
       "text": "F-f-f-f-fantasma!!!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 16,
       "text": "Tan abstracto",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 17,
       "text": "Tienda de gilipollas",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 18,
       "text": "Debe ser martes",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 19,
       "text": "Benzoato de potasio",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 20,
       "text": "Patos??",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 21,
       "text": "Propiedad intelectual",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 22,
       "text": "Alegoría",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 23,
       "text": "si, claro...",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 24,
       "text": "Autorreflejo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 25,
       "text": "Gerrymandering",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 26,
       "text": "Popurrí",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 27,
       "text": "simplemente algo Mágico",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 28,
       "text": "Antebellum Meridiem",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 29,
       "text": "Nosotros",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 30,
       "text": "Vive. Ríe. Ama.",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 31,
       "text": "Felipe VI",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 32,
       "text": "Entropía ",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 33,
       "text": "Abejas o algo parecido",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 34,
       "text": "Colesterol del bueno",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 35,
       "text": "Deja vu",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 36,
       "text": "Purgatorio",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 37,
       "text": "Seguro...",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 38,
       "text": "Crisis existencial",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 39,
       "text": "Conflicto interior masculino",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 40,
       "text": "Historia",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 41,
       "text": "Opción incorrecta! Opción incorrecta!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 42,
       "text": "Porno, creo...",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 43,
       "text": "Ah... la humanidad!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 44,
       "text": "Ola k ase",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 45,
       "text": "hidrógeno",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 46,
       "text": "nuestro futuro",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 47,
       "text": "un error",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 48,
       "text": "Arrepentimiento",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 49,
       "text": "Ding ding dong ding dong dong",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 50,
       "text": "Ironía",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 51,
       "text": "nop",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 52,
       "text": "actualización de Adobe Acrobat",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 53,
       "text": "Alehop",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 54,
       "text": "A <RANDOM_PLAYER_NAME> se le va la olla",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 55,
       "text": "Jambre",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 56,
       "text": "esto",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 57,
       "text": "me voy a dar un homenaje",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 58,
       "text": "estás loco tío?",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 59,
       "text": "Bosón de Higgs",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 60,
       "text": "Bufar",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 61,
       "text": "Puntillismo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 62,
       "text": "Me gusto caliente",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 63,
       "text": "Touchè",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 64,
       "text": "La película de nuestras vidas",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 65,
       "text": "La sociedad, amigos",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 66,
       "text": "iu, qué asco",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 67,
       "text": "oooh... vale?",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 68,
       "text": "Ahhhh cómo?",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 69,
       "text": "retozar",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 70,
       "text": "xoxo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 71,
       "text": "Ragnarok",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 72,
       "text": "Karma",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 73,
       "text": "bla bla bla",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 74,
       "text": "Pero queeeee?!!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 75,
       "text": "Green Day",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 76,
       "text": "En una galaxia muy lejana...",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 77,
       "text": "dignidad",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 78,
       "text": "come reza ama",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 79,
       "text": "No tengo ni idea",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 80,
       "text": "difamación",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 81,
       "text": "bienvenidos a villapeste",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 82,
       "text": "sinergia",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 83,
       "text": "subliminal",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 84,
       "text": "la estructura atómica del zinc",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 85,
       "text": "dilema moral",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 86,
       "text": "Botillo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 87,
       "text": "el acto del amor",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 88,
       "text": "no elijas esta",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 89,
       "text": "Sopa de letras para el alma",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 90,
       "text": "casi seguro que éste es un señuelo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 91,
       "text": "Abracadabra",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 92,
       "text": "Padres forzosos",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 93,
       "text": "matemáticas",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 94,
       "text": "capricho",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 95,
       "text": "Acto fallido",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 96,
       "text": "A quien le importa lo que yo haga",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 97,
       "text": "Bendito desorden",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 98,
       "text": "fallo épico",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 99,
       "text": "El fin de la inocencia",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 100,
       "text": "El caos",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 101,
       "text": "Aurora boreal",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 102,
       "text": "Te voy a contar cuatro cositas",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 103,
       "text": "Esquema Ponzi",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 104,
       "text": "Secreto de Tudela",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 105,
       "text": "Lo que sea, me encanta",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 106,
       "text": "Mira mamá! sin manos!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 107,
       "text": "Sirope de maíz con alto contenido en fructosa",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 108,
       "text": "Ni de coña!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 109,
       "text": "El modo en que comenzó Queen",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 110,
       "text": "Borroso",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 111,
       "text": "#picoftheday",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 112,
       "text": "Filisteo",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 113,
       "text": "pozo negro",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 114,
       "text": "Oh, sí, creo que me va a encantar justo ahí",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 115,
       "text": "Ni lo sé, ni me importa",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 116,
       "text": "como si",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 117,
       "text": "superhipermegamolón",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 118,
       "text": "Si voy a morir, moriré a lo grande en la carretera",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 119,
       "text": "un grave error",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 120,
       "text": "Crema de cacao",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 121,
       "text": "fuego! fuego! fueeeeeeeegoo!!!",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 122,
       "text": "cosas del culo",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 123,
       "text": "Algo de mi colección de juguetes sexuales",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 124,
       "text": "El espacio, colegas",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 125,
       "text": "sea lo que sea, cambió mi vida",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 126,
       "text": "a mamá le gusta",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 127,
       "text": "ni idea",
-      "adultContent": false
+      "x": false
     },
     {
       "id": 128,
       "text": "que demonios??",
-      "adultContent": true
+      "x": true
     },
     {
       "id": 129,
       "text": "yo, todo el tiempo",
-      "adultContent": false
+      "x": false
     }
   ]
 }
